@@ -10,27 +10,20 @@ block content
   article.portfolio-projects
     .inner-wrapper.flex-row-wrap.two-col
       .project-info-box.box
-
-        //- Use the info in your data file and the comments below to complete this template
-
-        //- Use interpolation to dynamically add the project title
-        h1 Project Name
-
-        //- Use interpolation to dynamically add the project description
-        p Description
+        h1= project.project_name
+        p= project.description
 
       .project-tech-links-box.box
         h6 Technologies
         ul
 
           //- Use an `each` iterator and interpolation to dynamically replace the li tags below with the technologies listed for this project
-          li HTML
-          li CSS
-          li JavaScript
+          each tech in project.technologies
+            li= tech
 
         //- Add the href values to the links below
-        a.btn-link(href='') Live Demo
-        a.btn-link(href='') GitHub Repo
+        a.btn-link(href=`${project.live_link}`, target="_blank") Live Demo
+        a.btn-link(href=`${project.github_link}`, target="_blank") GitHub Repo
 
     .project-img-box.box
 
