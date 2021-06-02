@@ -1,0 +1,28 @@
+{
+  "name": "my-portfolio",
+  "version": "1.0.0",
+  "description": "A portfolio website using nodejs and expressjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Argzon/My-Portfolio---Express-Nodejs.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "portfolio"
+  ],
+  "author": "Argzon Haziraj",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Argzon/My-Portfolio---Express-Nodejs/issues"
+  },
+  "homepage": "https://github.com/Argzon/My-Portfolio---Express-Nodejs#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pug": "^3.0.2"
+  }
+}
