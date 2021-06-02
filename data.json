@@ -7,7 +7,7 @@
             "technologies": ["JavaScript", "CSS", "HTML"],
             "live_link": "https://argzon.github.io/Random-Quote-Generator/",
             "github_link": "https://github.com/Argzon/Random-Quote-Generator",
-            "image_url": ["/static/images/random-quote-main.jpg", "/static/images/random-quote-small.jpg"]
+            "image_urls": ["/static/images/random-quote-main.jpg", "/static/images/random-quote-small.jpg"]
         },
         {
             "id": 1,
@@ -16,7 +16,7 @@
             "technologies": ["JavaScript", "CSS", "HTML"],
             "live_link": "https://argzon.github.io/Data-Pagination-and-Filtering/",
             "github_link": "https://github.com/Argzon/Data-Pagination-and-Filtering",
-            "image_url": ["/static/images/data-pagination-and-filtering-main.jpg", "/static/images/data-pagination-and-filtering-small.jpg"]
+            "image_urls": ["/static/images/data-pagination-and-filtering-main.jpg", "/static/images/data-pagination-and-filtering-small.jpg"]
         },
         {
             "id": 2,
@@ -25,7 +25,7 @@
             "technologies": ["JavaScript", "CSS", "HTML"],
             "live_link": "https://argzon.github.io/Interactive-Form/",
             "github_link": "https://github.com/Argzon/Interactive-Form",
-            "image_url": ["/static/images/interactive-form-main.jpg", "/static/images/interactive-form-small.jpg"]
+            "image_urls": ["/static/images/interactive-form-main.jpg", "/static/images/interactive-form-small.jpg"]
         },
         {
             "id": 3,
@@ -34,7 +34,7 @@
             "technologies": ["JavaScript", "CSS", "HTML"],
             "live_link": "https://argzon.github.io/Phrase-Hunter-OOP-Game-Show-App/",
             "github_link": "https://github.com/Argzon/Phrase-Hunter-OOP-Game-Show-App",
-            "image_url": ["/static/images/phrase-hunter-main.jpg", "/static/images/phrase-hunter-small.jpg"]
+            "image_urls": ["/static/images/phrase-hunter-main.jpg", "/static/images/phrase-hunter-small.jpg"]
         },
         {
             "id": 4,
@@ -43,7 +43,7 @@
             "technologies": ["JavaScript", "CSS", "HTML"],
             "live_link": "https://argzon.github.io/Public-API-Requests/",
             "github_link": "https://github.com/Argzon/Public-API-Requests",
-            "image_url": ["/static/images/public-api-main.jpg", "/static/images/public-api-small.jpg"]
+            "image_urls": ["/static/images/public-api-main.jpg", "/static/images/public-api-small.jpg"]
         }
     ]
 }
