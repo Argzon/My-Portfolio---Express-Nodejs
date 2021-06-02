@@ -1,47 +1,49 @@
-[
-    {
-        "id": 0,
-        "project_name": "Radom Quote Generator",
-        "description": "",
-        "technologies": ["JavaScript", "CSS", "HTML"],
-        "live_link": "https://argzon.github.io/Random-Quote-Generator/",
-        "github_link": "https://github.com/Argzon/Random-Quote-Generator",
-        "image_url": []
-    },
-    {
-        "id": 1,
-        "project_name": "Data Pagination and Filtering",
-        "description": "In this project I have created a page with pagination which uses data from the students to display on the page. The maximum number of students shown on the page are 9 so this will make the pagination work perfectly.",
-        "technologies": ["JavaScript", "CSS", "HTML"],
-        "live_link": "https://argzon.github.io/Data-Pagination-and-Filtering/",
-        "github_link": "https://github.com/Argzon/Data-Pagination-and-Filtering",
-        "image_url": []
-    },
-    {
-        "id": 2,
-        "project_name": "Interactive Form",
-        "description": "An interactive form to enhance an interactive registration form for a fictional Full Stack conference. In this form we gather information like Basic Info, T-Shirt Info, Registration of Activities and also the payment information.",
-        "technologies": ["JavaScript", "CSS", "HTML"],
-        "live_link": "https://argzon.github.io/Interactive-Form/",
-        "github_link": "https://github.com/Argzon/Interactive-Form",
-        "image_url": []
-    },
-    {
-        "id": 3,
-        "project_name": "Phrase Hunter Game",
-        "description": "In this project, we use different phrases which are selected randomly from createPhrases() function and it is selected randomly from getRandomPhrase(). Everytime you start a new game a random phrase is added to the display for you to guess it addPhraseToDisplay().",
-        "technologies": ["JavaScript", "CSS", "HTML"],
-        "live_link": "https://argzon.github.io/Phrase-Hunter-OOP-Game-Show-App/",
-        "github_link": "https://github.com/Argzon/Phrase-Hunter-OOP-Game-Show-App",
-        "image_url": []
-    },
-    {
-        "id": 4,
-        "project_name": "Public API Requests",
-        "description": "This is a random user generator from https://randomuser.me/ where we basically get 12 random US users and display randomly in the page. The users have more information which are visible if you click on any card, a modal window will appear with more information. You can move forward to the next user with Next button or backwards with the Prev button. You may also filter or search users that were generated using the search function. The search function is case insensitive and it the results will appear in real time.",
-        "technologies": ["JavaScript", "CSS", "HTML"],
-        "live_link": "https://argzon.github.io/Public-API-Requests/",
-        "github_link": "https://github.com/Argzon/Public-API-Requests",
-        "image_url": []
-    }
-]
+{
+    "cards": [
+        {
+            "id": 0,
+            "project_name": "Radom Quote Generator",
+            "description": "",
+            "technologies": ["JavaScript", "CSS", "HTML"],
+            "live_link": "https://argzon.github.io/Random-Quote-Generator/",
+            "github_link": "https://github.com/Argzon/Random-Quote-Generator",
+            "image_url": []
+        },
+        {
+            "id": 1,
+            "project_name": "Data Pagination and Filtering",
+            "description": "In this project I have created a page with pagination which uses data from the students to display on the page. The maximum number of students shown on the page are 9 so this will make the pagination work perfectly.",
+            "technologies": ["JavaScript", "CSS", "HTML"],
+            "live_link": "https://argzon.github.io/Data-Pagination-and-Filtering/",
+            "github_link": "https://github.com/Argzon/Data-Pagination-and-Filtering",
+            "image_url": []
+        },
+        {
+            "id": 2,
+            "project_name": "Interactive Form",
+            "description": "An interactive form to enhance an interactive registration form for a fictional Full Stack conference. In this form we gather information like Basic Info, T-Shirt Info, Registration of Activities and also the payment information.",
+            "technologies": ["JavaScript", "CSS", "HTML"],
+            "live_link": "https://argzon.github.io/Interactive-Form/",
+            "github_link": "https://github.com/Argzon/Interactive-Form",
+            "image_url": []
+        },
+        {
+            "id": 3,
+            "project_name": "Phrase Hunter Game",
+            "description": "In this project, we use different phrases which are selected randomly from createPhrases() function and it is selected randomly from getRandomPhrase(). Everytime you start a new game a random phrase is added to the display for you to guess it addPhraseToDisplay().",
+            "technologies": ["JavaScript", "CSS", "HTML"],
+            "live_link": "https://argzon.github.io/Phrase-Hunter-OOP-Game-Show-App/",
+            "github_link": "https://github.com/Argzon/Phrase-Hunter-OOP-Game-Show-App",
+            "image_url": []
+        },
+        {
+            "id": 4,
+            "project_name": "Public API Requests",
+            "description": "This is a random user generator from https://randomuser.me/ where we basically get 12 random US users and display randomly in the page. The users have more information which are visible if you click on any card, a modal window will appear with more information. You can move forward to the next user with Next button or backwards with the Prev button. You may also filter or search users that were generated using the search function. The search function is case insensitive and it the results will appear in real time.",
+            "technologies": ["JavaScript", "CSS", "HTML"],
+            "live_link": "https://argzon.github.io/Public-API-Requests/",
+            "github_link": "https://github.com/Argzon/Public-API-Requests",
+            "image_url": []
+        }
+    ]
+}
