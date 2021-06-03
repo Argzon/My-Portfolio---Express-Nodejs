@@ -3,7 +3,7 @@
         {
             "id": 0,
             "project_name": "Radom Quote Generator",
-            "description": "",
+            "description": "A pretty awesome random quote generator for you, which changes its color everytime a new quote is shown. You can click Show Another Quote to show new quote or wait 10 seconds and the script will generate a new quote for you.",
             "technologies": ["JavaScript", "CSS", "HTML"],
             "live_link": "https://argzon.github.io/Random-Quote-Generator/",
             "github_link": "https://github.com/Argzon/Random-Quote-Generator",

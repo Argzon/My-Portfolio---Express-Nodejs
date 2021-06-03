@@ -8,8 +8,10 @@ block content
         |  Back
 
   article.portfolio-intro
-    h1 Error page
-    p The project you've been looking for cannot be found.
+    h1= `Server Error`
+    h2 Server Error
+    p Human friendly error message:
+    pre= `${err.message}`
 
   nav.nav
     a(href='/')
