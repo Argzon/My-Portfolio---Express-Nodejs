@@ -6,11 +6,12 @@ const app = express();
 app.set('view engine', 'pug');
 app.use('/static', express.static('public'));
 
-
+// Index Page
 app.get('/', (req,res) => {
     res.render('index', {projects});
 })
 
+// About page
 app.get('/about', (req, res) => {
     res.render('about');
 })
