@@ -27,7 +27,7 @@ app.get('/project/:id', (req, res, next) => {
   } else {
     const err = new Error();
     err.status = 404;
-    res.render('page-not-found');
+    res.render('page-not-found', {err});
     err.message = 'Project not found';
     next(err);
   }
